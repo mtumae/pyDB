@@ -1,6 +1,7 @@
 {
   "users": {
     "pkey": "user_id",
+    "fkey":"",
     "columns": 3,
     "starting_index": 0,
     "timestamp_added": "13-01-2026",
@@ -9,6 +10,7 @@
 
   "schools":{
     "pkey": "school_id",
+    "fkey":"",
     "starting_index": 3,
     "columns": 3,
     "timestamp_added": "14-01-2026",
