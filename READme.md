@@ -14,5 +14,5 @@ boolean
 
 
 I will use a file-based storage system with 
-- a schema.json files to hold table metadata
+- a schema.json files to hold table metadata (I will change this to a python dictionary soon)
 - a data.csv file to hold the actual data
